@@ -1,3 +1,4 @@
 class Comment < ApplicationRecord
-  # Test github
+  # Test tiếp
+  # Test 
 end
