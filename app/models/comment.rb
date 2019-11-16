@@ -1,4 +1,5 @@
 class Comment < ApplicationRecord
   # Test tiếp
-  # Test 
+  # Test  ở đây cũng sửa luôn
+  # Thêm dòng nữa
 end
