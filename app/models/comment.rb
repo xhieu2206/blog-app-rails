@@ -1,4 +1,4 @@
 class Comment < ApplicationRecord
   # Test tiếp
-  # Test 
+  # Test conflict
 end
